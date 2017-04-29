@@ -10,7 +10,7 @@ held in this directory.
 A companion directory holds the drivers and example code showing how to use the cape:
 https://github.com/brorson/ADC-001_basic_code.  A brief user's guide may be found in 
 the present directory under 
-https://github.com/brorson/ADC-001_hardware_information/UsingtheBeaglebone.pdf.
+https://github.com/brorson/ADC-001_hardware_information/UsingtheBeaglebone.pdf .
 
 The ADC-001 cape will be available for purchase in the near future.
 
