@@ -16,6 +16,6 @@ https://github.com/brorson/ADC-001_hardware_information/blob/master/UsingtheBeag
 
 The ADC-001 cape will be available for purchase in the near future.
 
-Stuart Brorson
-4.29.2017
-sdb@cloud9.net
+Stuart Brorson  
+4.29.2017  
+sdb AT cloud9.net  
