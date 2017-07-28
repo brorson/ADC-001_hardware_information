@@ -9,12 +9,13 @@ converter.  A companion microphone, MIC-001, is also available from Electroniscr
 The frequency response of the circuit runs from 50Hz -- 15kHz, so
 the unit is well-suited for voice or audio signal processing applications.
 Target applications for the ADC-001 include:
--- Sound capture and analysis.
--- Audio signal processing.
--- Audio-frequency data acquisition.
--- Embedded sensors and controllers.
--- DSP algorithm prototyping and development.
--- Education, research, and development.
+
+* Sound capture and analysis.
+* Audio signal processing.
+* Audio-frequency data acquisition.
+* Embedded sensors and controllers.
+* DSP algorithm prototyping and development.
+* Education, research, and development.
 
 A more
 complete description of the cape is presented in the document 
@@ -27,11 +28,9 @@ the present directory under
 https://github.com/brorson/ADC-001_hardware_information/blob/master/UsingtheBeaglebone.pdf
 
 The ADC-001 cape is available for purchase at BNM-Hobbies:
-
 https://www.bnm-hobbies.com/store/index.php?main_page=product_info&cPath=150&products_id=2011
 
 The accompanying microphone, MIC-001, is also available at BNM-Hobbies:
-
 https://www.bnm-hobbies.com/store/index.php?main_page=product_info&cPath=150&products_id=2012
 
 Stuart Brorson  
